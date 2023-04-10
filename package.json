@@ -1,5 +1,5 @@
 {
-  "name": "react-smart-table",
+  "name": "react-table-ts",
   "version": "0.0.0-development",
   "description": "An opinionated, lightweight, and highly customizable React table component",
   "main": "./lib/index.js",
